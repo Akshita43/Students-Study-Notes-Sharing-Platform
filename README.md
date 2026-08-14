@@ -13,7 +13,7 @@ Built with HTML, CSS, and JavaScript (no backend — data persists in `localStor
 <!-- ![ShareMyNotes Screenshot](assets/screenshot.png) -->
 
 ---
-![Uploading image.png…]()
+
 
 
 ## ✨ Features
