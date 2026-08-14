@@ -3,14 +3,7 @@
 A single-page web for students to upload, browse, and share study notes — with study groups, direct messaging, likes/comments, and a personal library.
 Built with HTML, CSS, and JavaScript (no backend — data persists in `localStorage`).
 
-<!--
-  🖼️ ADD YOUR SCREENSHOT HERE
-  1. Take a screenshot of the app (e.g. the Home page).
-  2. Create a folder called "assets" in your repo root.
-  3. Save the image as assets/screenshot.png
-  4. Uncomment the line below.
--->
-<!-- ![ShareMyNotes Screenshot](assets/screenshot.png) -->
+ ![ShareMyNotes Screenshot](assets/screenshot.png)
 
 ---
 
